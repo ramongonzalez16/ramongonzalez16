@@ -22,7 +22,7 @@ I am passionate about translating complex business requirements into clean, main
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6318CC?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-blue?style=for-the-badge&logo=springboot&logoColor=white)
 
-![JPA](https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=springboot&logoColor=white) | 
+![JPA](https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=springboot&logoColor=white)|
 ![Maven](https://img.shields.io/badge/MAVEN-blue?style=for-the-badge&logo=springboot&logoColor=white)
 ![Jakarta](https://img.shields.io/badge/MAVEN-blue?style=for-the-badge&logo=springboot&logoColor=white)
 ![JUnit5](https://shields.io)
