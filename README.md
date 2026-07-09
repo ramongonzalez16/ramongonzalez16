@@ -40,7 +40,7 @@ I am passionate about translating complex business requirements into clean, main
 ![Swing](https://img.shields.io/badge/SWING-00FF77?style=for-the-badge&logo=things&logoColor=white)
 
 #### 🖧 Application Servers
-![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![GlassFish](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ---
