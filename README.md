@@ -40,29 +40,29 @@ I am passionate about translating complex business requirements into clean, main
 ![Swing](https://img.shields.io/badge/SWING-00FF77?style=for-the-badge&logo=things&logoColor=white)
 
 #### 🖧 Application Servers
-![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![GlassFish](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ---
 
 ### 🗄️ Database Management Systems
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Oracle](https://shields.io)
+![MySQL](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ---
 
 ### 🏛️ Architecture & Data Formats
-![MVC](https://shields.io)
-![JSON / XML](https://shields.io)
+![MVC](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![JSON / XML](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
 ### 🛠️ Control Tools & Development Environments
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![NetBeans](https://shields.io)apachenetbeanside
-![Eclipse](https://shields.io)
+![Git](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NETBEANS-0400FF?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Eclipse](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
