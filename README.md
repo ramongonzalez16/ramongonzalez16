@@ -19,13 +19,14 @@ I am passionate about translating complex business requirements into clean, main
 ### ☕ Java Ecosystem & Technologies
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-yellow?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-yellow?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://shields.io)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-grey?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=springboot&logoColor=white)
 
 ![JPA](https://shields.io)
 ![Maven](https://shields.io)
 ![Gradle](https://shields.io)
 ![JUnit5](https://shields.io)
+![JAKARTA](https://shields.io)
 
 #### 🌐 Web Development & APIs
 ![APIs RESTful](https://shields.io)
