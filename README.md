@@ -1,8 +1,8 @@
 # 🎯 Ramón Humberto González
 ### Software Development Technologist | Java SE | Java EE | Spring Boot | JavaScript | Web & Desktop Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.co](https://www.linkedin.com/in/ramonhumbertogonzalez16)
-[![Email](https://shields.io)](mailto:ramonhumbertogonzalez16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonhumbertogonzalez16/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonhumbertogonzalez16@gmail.com)
 
 ---
 
