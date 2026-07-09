@@ -29,19 +29,19 @@ I am passionate about translating complex business requirements into clean, main
 ![Gradle](https://img.shields.io/badge/GRADLE-4DFFDF?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### 🌐 Web Development & APIs
-![APIs RESTful](https://shields.io)
-![JavaScript](https://shields.io)
-![Thymeleaf](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-black?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF0080?style=for-the-badge&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/THYMELEAF-FF0000?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=springboot&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🖥️ Desktop Development (GUI)
-![JavaFX](https://shields.io)
-![Swing](https://shields.io)
+![JavaFX](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=javafx&logoColor=white)
+![Swing](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=swing&logoColor=white)
 
 #### 🖧 Application Servers
-![Tomcat](https://shields.io)
-![GlassFish](https://shields.io)
+![Tomcat](https://img.shields.io/badge/TOMCAT-FF0088?style=for-the-badge&logo=tomcat&logoColor=white)
+![GlassFish](https://img.shields.io/badge/GLASS%20FISH-00FF77?style=for-the-badge&logo=glassfish&logoColor=white)
 
 ---
 
@@ -68,7 +68,7 @@ I am passionate about translating complex business requirements into clean, main
 
 ## 🚀 Featured Projects
 
-### 🌐 Sevimedicina Veterinaria **Link:** [View Repository on GitHub](https://github.com)
+### 🌐 Sevimedicina Veterinaria [View Repository on GitHub](https://github.com)
 * **Description:** An enterprise web platform designed for the comprehensive management of a prepaid healthcare system (EPS), specialized clinical services, and emergency tracking for pets. It centralizes patient enrollment, coverage control, and medical emergency triage.
 * **Technical Highlights:**
   * Robust backend built to handle complex business logic for healthcare plans and veterinary clinical workflows.
@@ -77,7 +77,7 @@ I am passionate about translating complex business requirements into clean, main
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
 
 
-### 🌐 Agrohotel La Pradera **Link:** [View Repository on GitHub](https://github.com)
+### 🌐 Agrohotel La Pradera [View Repository on GitHub](https://github.com)
 * **Description:** An end-to-end web system tailored for hotel administration, amenity scheduling, and booking management in the agritourism sector. It features an interactive administrative panel, real-time room inventories, and secure guest workflows.
 * **Technical Highlights:**
   * Scalable architecture powered by **RESTful APIs** for quick and agile data exchange in **JSON** formats.
@@ -85,7 +85,7 @@ I am passionate about translating complex business requirements into clean, main
   * High-performance persistence layer mapping optimized with JPA and Hibernate.
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
 
-### 🖥️ COOTRAM **Link:** [View Repository on GitHub](https://github.com)
+### 🖥️ COOTRAM [View Repository on GitHub](https://github.com)
 * **Description:** A robust desktop software solution focused on logistics and fleet operations for rural and intercity public transportation companies. The system automates dispatch scheduling, driver logs, and route monitoring workflows.
 * **Technical Highlights:**
   * Efficient tracking and dispatching tools for complex rural routes (Jeep Willys fleet operation in the Montenegro countrysides).
@@ -100,7 +100,7 @@ I am passionate about translating complex business requirements into clean, main
   * Clean user interface optimized to speed up the daily operations of system administrative staff.
 * **Technologies:** Java SE, Swing / JavaFX, MySQL / Oracle.
 
-### 🖥️ ASCII Encoder **Link:** [View Repository on GitHub](https://github.com) 
+### 🖥️ ASCII Encoder [View Repository on GitHub](https://github.com) 
 * **Description:** A logical desktop utility built for character encoding, decoding, and data conversion analysis across ASCII, binary, and hexadecimal systems allowing encoded files to be read and written, perfect as a low-level algorithm solution.
 * **Technical Highlights:**
   * Precise data manipulation, high-efficiency conversion algorithms, and local system configuration parsing using lightweight **JSON/XML** formats.
