@@ -19,29 +19,29 @@ I am passionate about translating complex business requirements into clean, main
 ### ☕ Java Ecosystem & Technologies
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-yellow?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6318CC?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-blue?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6318CC?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-blue?style=for-the-badge&logo=hibernate&logoColor=white)
 
-![JPA](https://img.shields.io/badge/JPA-30FF30?style=for-the-badge&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/MAVEN-FF3097?style=for-the-badge&logo=springboot&logoColor=white)
-![Jakarta](https://img.shields.io/badge/JAKARTA-FF3030?style=for-the-badge&logo=springboot&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUNIT%205-FF9730?style=for-the-badge&logo=springboot&logoColor=white)
-![Gradle](https://img.shields.io/badge/GRADLE-4DFFDF?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-30FF30?style=for-the-badge&logo=1password&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-FF3097?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jakarta](https://img.shields.io/badge/JAKARTA-FF3030?style=for-the-badge&logo=aparat&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUNIT%205-FF9730?style=for-the-badge&logo=junit5&logoColor=white)
+![Gradle](https://img.shields.io/badge/GRADLE-4DFFDF?style=for-the-badge&logo=gradle&logoColor=white)
 
 #### 🌐 Web Development & APIs
 ![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-black?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF0080?style=for-the-badge&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/THYMELEAF-FF0000?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=springboot&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF0080?style=for-the-badge&logo=javascript&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/THYMELEAF-FF0000?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=css&logoColor=white)
 
 #### 🖥️ Desktop Development (GUI)
-![JavaFX](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=javafx&logoColor=white)
-![Swing](https://img.shields.io/badge/CSS3-00FF77?style=for-the-badge&logo=swing&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JAVAFX-FF0088?style=for-the-badge&logo=openmediavault&logoColor=white)
+![Swing](https://img.shields.io/badge/SWING-00FF77?style=for-the-badge&logo=things&logoColor=white)
 
 #### 🖧 Application Servers
-![Tomcat](https://img.shields.io/badge/TOMCAT-FF0088?style=for-the-badge&logo=tomcat&logoColor=white)
-![GlassFish](https://img.shields.io/badge/GLASS%20FISH-00FF77?style=for-the-badge&logo=glassfish&logoColor=white)
+![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![GlassFish](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ---
 
@@ -61,7 +61,7 @@ I am passionate about translating complex business requirements into clean, main
 ### 🛠️ Control Tools & Development Environments
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-![NetBeans](https://shields.io)
+![NetBeans](https://shields.io)apachenetbeanside
 ![Eclipse](https://shields.io)
 
 ---
