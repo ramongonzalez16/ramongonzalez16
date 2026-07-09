@@ -134,7 +134,7 @@ I am passionate about translating complex business requirements into clean, main
 
 Thank you for visiting my profile! I am open to professional opportunities, challenging software ventures, and engineering collaborations. If you would like to discuss technical architectures or learn more about my work, feel free to reach out:
 
-* 💼 **LinkedIn:** [/in/ramonhumbertogonzalez16](https://linkedin.com)
+* 💼 **LinkedIn:** [/in/ramonhumbertogonzalez16](https://www.linkedin.com/in/ramonhumbertogonzalez16)
 * 📧 **Email:** [ramonhumbertogonzalez16@gmail.com](mailto:ramonhumbertogonzalez16@gmail.com)
 
-<p align="center">🛠️ Built with dedication from Quindío, Colombia 🇨🇴</p>
+<p align="center">🛠️ Built with dedication from Quindío, Colombia</p>
