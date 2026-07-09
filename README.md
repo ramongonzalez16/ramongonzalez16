@@ -29,7 +29,7 @@ I am passionate about translating complex business requirements into clean, main
 ![Gradle](https://img.shields.io/badge/GRADLE-4DFFDF?style=for-the-badge&logo=gradle&logoColor=white)
 
 #### 🌐 Web Development & APIs
-![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-black?style=for-the-badge&logo=springboot&logoColor=white)
+![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-black?style=for-the-badge&logo=apachesuperset&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF0080?style=for-the-badge&logo=javascript&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/THYMELEAF-FF0000?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@ I am passionate about translating complex business requirements into clean, main
 ![Swing](https://img.shields.io/badge/SWING-00FF77?style=for-the-badge&logo=things&logoColor=white)
 
 #### 🖧 Application Servers
-![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![Tomcat](https://img.shields.io/badge/TOMCAT-FBFF00?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![GlassFish](https://img.shields.io/badge/GLASS%20FISH-0400FF?style=for-the-badge&logo=fishshell&logoColor=white)
 
 ---
