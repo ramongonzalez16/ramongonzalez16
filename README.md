@@ -22,11 +22,11 @@ I am passionate about translating complex business requirements into clean, main
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6318CC?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-blue?style=for-the-badge&logo=springboot&logoColor=white)
 
-![JPA](https://img.shields.io/badge/JPA-blue?style=for-the-badge&logo=springboot&logoColor=white)|
-![Maven](https://img.shields.io/badge/MAVEN-blue?style=for-the-badge&logo=springboot&logoColor=white)
-![Jakarta](https://img.shields.io/badge/MAVEN-blue?style=for-the-badge&logo=springboot&logoColor=white)
-![JUnit5](https://shields.io)
-![JAKARTA](https://shields.io)
+![JPA](https://img.shields.io/badge/JPA-30FF30?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-FF3097?style=for-the-badge&logo=springboot&logoColor=white)
+![Jakarta](https://img.shields.io/badge/JAKARTA-FF3030?style=for-the-badge&logo=springboot&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUNIT-5-FF9730?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/GRADLE-4DFFDF?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### 🌐 Web Development & APIs
 ![APIs RESTful](https://shields.io)
