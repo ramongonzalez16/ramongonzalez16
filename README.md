@@ -68,47 +68,44 @@ I am passionate about translating complex business requirements into clean, main
 
 ## 🚀 Featured Projects
 
-### 🌐 Sevimedicina Veterinaria
+### 🌐 Sevimedicina Veterinaria **Link:** [View Repository on GitHub](https://github.com)
 * **Description:** An enterprise web platform designed for the comprehensive management of a prepaid healthcare system (EPS), specialized clinical services, and emergency tracking for pets. It centralizes patient enrollment, coverage control, and medical emergency triage.
 * **Technical Highlights:**
   * Robust backend built to handle complex business logic for healthcare plans and veterinary clinical workflows.
   * Seamless data streaming and consultation history exchange using **RESTful APIs** and **JSON** parsing.
   * Optimized database architecture to secure user records, patient data, and clinical histories.
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
-* **Link:** [View Repository on GitHub](https://github.com)
 
-### 🌐 Agrohotel La Pradera
+
+### 🌐 Agrohotel La Pradera **Link:** [View Repository on GitHub](https://github.com)
 * **Description:** An end-to-end web system tailored for hotel administration, amenity scheduling, and booking management in the agritourism sector. It features an interactive administrative panel, real-time room inventories, and secure guest workflows.
 * **Technical Highlights:**
   * Scalable architecture powered by **RESTful APIs** for quick and agile data exchange in **JSON** formats.
   * Secure user session management and authentication utilizing Spring Security components.
   * High-performance persistence layer mapping optimized with JPA and Hibernate.
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
-* **Link:** [View Repository on GitHub](https://github.com)
 
-### 🖥️ COOTRAM
+### 🖥️ COOTRAM **Link:** [View Repository on GitHub](https://github.com)
 * **Description:** A robust desktop software solution focused on logistics and fleet operations for rural and intercity public transportation companies. The system automates dispatch scheduling, driver logs, and route monitoring workflows.
 * **Technical Highlights:**
   * Efficient tracking and dispatching tools for complex rural routes (Jeep Willys fleet operation in the Montenegro countrysides).
   * Route frequency monitoring for intercity bus fleets traveling corridors across La Tebaida, Armenia, and Montenegro.
   * Designed entirely under the **MVC** pattern to guarantee easy codebase maintenance and high offline availability.
 * **Technologies:** Java SE, JavaFX / Swing, PostgreSQL, Git.
-* **Link:** [View Repository on GitHub](https://github.com)
 
-### 🖥️ Cemetery Management System
+### 🖥️ Cemetery Management System **Link:** [View Repository on GitHub](https://github.com)
 * **Description:** Specialized desktop software engineered for cadastral organization, spatial area allocation, historical records management, and automated local billing workflows for funerary or maintenance services.
 * **Technical Highlights:**
   * Structured local data storage ensuring relational integrity and transaction security.
   * Clean user interface optimized to speed up the daily operations of system administrative staff.
 * **Technologies:** Java SE, Swing / JavaFX, MySQL / Oracle.
-* **Link:** [View Repository on GitHub](https://github.com)
 
-### 🖥️ ASCII Encoder
-* **Description:** A logical desktop utility built for character encoding, decoding, and data conversion analysis across ASCII, binary, and hexadecimal systems, perfect as a low-level algorithm solution.
+### 🖥️ ASCII Encoder **Link:** [View Repository on GitHub](https://github.com) 
+* **Description:** A logical desktop utility built for character encoding, decoding, and data conversion analysis across ASCII, binary, and hexadecimal systems allowing encoded files to be read and written, perfect as a low-level algorithm solution.
 * **Technical Highlights:**
   * Precise data manipulation, high-efficiency conversion algorithms, and local system configuration parsing using lightweight **JSON/XML** formats.
 * **Technologies:** Java SE, GUI Components, Algorithms & Data Structures.
-* **Link:** [View Repository on GitHub](https://github.com)
+
 
 ---
 
