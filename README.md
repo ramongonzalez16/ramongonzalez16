@@ -85,7 +85,7 @@ I am passionate about translating complex business requirements into clean, main
   * High-performance persistence layer mapping optimized with JPA and Hibernate.
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
 
-### 🖥️ COOTRAM [View Repository on GitHub](https://github.com)
+### 🖥️ COOTRAM [View Repository on GitHub]([https://github.com](https://github.com/ramongonzalez16/COOTRAM/))
 * **Description:** A robust desktop software solution focused on logistics and fleet operations for rural and intercity public transportation companies. The system automates dispatch scheduling, driver logs, and route monitoring workflows.
 * **Technical Highlights:**
   * Efficient tracking and dispatching tools for complex rural routes (Jeep Willys fleet operation in the Montenegro countrysides).
@@ -100,7 +100,7 @@ I am passionate about translating complex business requirements into clean, main
   * Clean user interface optimized to speed up the daily operations of system administrative staff.
 * **Technologies:** Java SE, Swing / JavaFX, MySQL / Oracle.
 
-### 🖥️ ASCII Encoder [View Repository on GitHub](https://github.com) 
+### 🖥️ ASCII Encoder [View Repository on GitHub](https://github.com/ramongonzalez16/Codificador) 
 * **Description:** A logical desktop utility built for character encoding, decoding, and data conversion analysis across ASCII, binary, and hexadecimal systems allowing encoded files to be read and written, perfect as a low-level algorithm solution.
 * **Technical Highlights:**
   * Precise data manipulation, high-efficiency conversion algorithms, and local system configuration parsing using lightweight **JSON/XML** formats.
