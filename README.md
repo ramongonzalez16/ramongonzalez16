@@ -46,23 +46,23 @@ I am passionate about translating complex business requirements into clean, main
 ---
 
 ### 🗄️ Database Management Systems
-![MySQL](https://img.shields.io/badge/MYSQL-0400FF?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0400FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/ORACLE-0400FF?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-FF00FB?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-8400FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/ORACLE-FF007B?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ---
 
 ### 🏛️ Architecture & Data Formats
-![MVC](https://img.shields.io/badge/MVC-0400FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![JSON / XML](https://img.shields.io/badge/JSON%20%2F%20XML-0400FF?style=for-the-badge&logo=xml&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF0400?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![JSON / XML](https://img.shields.io/badge/JSON%20%2F%20XML-FF8400?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
 ### 🛠️ Control Tools & Development Environments
-![Git](https://img.shields.io/badge/GIT-0400FF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-0400FF?style=for-the-badge&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NETBEANS-0400FF?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Eclipse](https://img.shields.io/badge/ECLIPSE-0400FF?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FBFF00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-7BFF00?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NETBEANS-00FBFF?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Eclipse](https://img.shields.io/badge/ECLIPSE-8400FF?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
