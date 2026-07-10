@@ -85,7 +85,7 @@ I am passionate about translating complex business requirements into clean, main
   * High-performance persistence layer mapping optimized with JPA and Hibernate.
 * **Technologies:** Spring Boot, Spring Security, MySQL, Thymeleaf, JavaScript.
 
-### 🖥️ COOTRAM [View Repository on GitHub]([https://github.com/ramongonzalez16/COOTRAM/])
+### 🖥️ COOTRAM [View Repository on GitHub](https://github.com/ramongonzalez16/COOTRAM/)
 * **Description:** A robust desktop software solution focused on logistics and fleet operations for rural and intercity public transportation companies. The system automates dispatch scheduling, driver logs, and route monitoring workflows.
 * **Technical Highlights:**
   * Efficient tracking and dispatching tools for complex rural routes (Jeep Willys fleet operation in the Montenegro countrysides).
