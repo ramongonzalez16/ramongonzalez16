@@ -93,7 +93,7 @@ I am passionate about translating complex business requirements into clean, main
   * Designed entirely under the **MVC** pattern to guarantee easy codebase maintenance and high offline availability.
 * **Technologies:** Java SE, JavaFX / Swing, PostgreSQL, Git.
 
-### 🖥️ Cemetery Management System **Link:** [View Repository on GitHub](https://github.com)
+### 🖥️ Cemetery Management System [View Repository on GitHub](https://github.com)
 * **Description:** Specialized desktop software engineered for cadastral organization, spatial area allocation, historical records management, and automated local billing workflows for funerary or maintenance services.
 * **Technical Highlights:**
   * Structured local data storage ensuring relational integrity and transaction security.
